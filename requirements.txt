@@ -5,6 +5,7 @@ matplotlib
 seaborn
 scipy
 Flask
+gunicorn
 xgboost
 jupyter
 notebook
