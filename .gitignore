@@ -38,6 +38,7 @@ data/*.json
 *.pkl
 *.h5
 *.model
+!flask/payments.pkl
 
 # IDE
 .vscode/
