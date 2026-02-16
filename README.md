@@ -37,7 +37,7 @@ The system can be periodically retrained to adapt to evolving fraud patterns.
 
 ---
 
-## 🏗️ Project Structure
+
 
 
 ## 🏗️ Project Structure
